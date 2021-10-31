@@ -1,3 +1,3 @@
 # Resume
 
-Resume of BulletTech: https://bullettech2021.github.io/Resume/dist/
+Resume of BulletTech: https://bullettech2021.github.io/Resume/home/
